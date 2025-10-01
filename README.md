@@ -24,9 +24,10 @@
 
 ### 1.1 Definição da Arquitetura
 **Entregáveis:**
-- [ ] Diagrama de arquitetura de microserviços
-- [ ] Diagrama de fluxo de eventos Kafka
-- [ ] Modelo de dados de cada serviço
+- [x] [Diagrama de arquitetura de microserviços](./docs/architecture_diagram.md)
+- [x] [Diagrama de fluxo de eventos Kafka](./docs/event_flow_diagram.md)
+- [x] [Diagrama de redes](./docs/docker_network_diagram.md)
+- [x] [Modelo de dados de cada serviço](./docs/data_models.md)
 - [ ] Documentação de APIs (OpenAPI/Swagger)
 
 **Atividades:**
