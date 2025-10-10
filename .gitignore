@@ -1,2 +1,7 @@
 __pycache__/
 .claude/
+.env
+.env.local
+.env.*.local
+.venv/
+venv/
